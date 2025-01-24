@@ -10,10 +10,6 @@
     Email-id : vkvishalkumbhar99@gmail.com
     Mob. No. : 9960751186
 
-    Name : Ms. Rutuja Gautam Londhe
-    Email-id : londherutuja324@gmail.com
-    Mob. No. : 8286712033
-
 ## Reference :
     www.google.com 
 
